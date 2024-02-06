@@ -1,0 +1,10 @@
+.same{
+
+    display: flex;
+    justify-content: center;
+
+}
+.use{
+    font-style: oblique;
+    text-align: center;
+}
