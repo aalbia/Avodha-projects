@@ -1,4 +1,4 @@
-.st{
+.container{
     display: block;
    font-style: inherit;
    color: aquamarine;
@@ -10,15 +10,15 @@
 
 
 
-.styles{
+.heading{
     font-style: oblique;
     flex-direction: column;
     color: aqua;
-    background-color: black;
+    background-color: rgb(188, 106, 106);
     flex-direction: column;
    
 
 }
-.to{
+.paragraph{
     border: 10px solid coral;
 }
