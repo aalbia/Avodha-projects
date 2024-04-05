@@ -1,0 +1,36 @@
+const fruits = ['apple','banana','orange','burys']
+let fruit = fruits[2]
+console.log(2);
+
+//pop, push, shift, unshift, slice, splice,
+//map, filter, reduce
+
+const colors = ["red","brown", "yellow","pink"]
+ colors.pop();
+ console.log(colors);
+
+ const flowers = ["ros","jasmin","sunflower",]
+ flowers.push("lilly");
+ console.log(flowers);
+
+ const places = ["kollam", "ktm", "ernakulam","kozhikodu" ]
+ places.shift();
+ console.log(places);
+ 
+ const cars = ["opel","toyato","jeep","audi",]
+ cars .unshift("smart");
+ console.log(cars);
+
+ const bikes = ["kawasaki","yamahari5s","bmw","duke","royalenfield"]
+ const wheeler = bikes.slice(2);
+ console.log(wheeler);
+ const bike = bikes.slice(2,4);
+ console.log(bike);
+
+ const dress = ["jeens","top","kurthis",]
+ dress.splice(2,0, "baghi","saree")
+ console.log(dress);
+
+
+
+ 
